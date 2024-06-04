@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/juliusthaller/Personal/Toolbox/Mac/ProgAdd",
+      "program": "/Users/juliusthaller/Personal/Toolbox/Mac/ProgAdd/build/Debug/outDebug"
+    }
+  ]
+}
