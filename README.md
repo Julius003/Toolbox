@@ -19,4 +19,3 @@ so it can be executed in every terminal in any location.
 ---
 
 You are free to download, use and modify these skripts to fit your needs.
-Commercial use is not allowed.
